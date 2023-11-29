@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/monsters-developers-project/",
+    "build": "vite build --base=/html_css_100_LILKRASH/",
     "preview": "vite preview"
   },
   "devDependencies": {
